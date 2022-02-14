@@ -37,6 +37,10 @@
 
 <br>
 
+## [Click for a live demo](https://movie-app-block-buster.herokuapp.com/)
+
+<br>
+
 ## About The Project
 
 ![Product Name Screen Shot](./public/images/moviePage.png)
